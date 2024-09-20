@@ -69,7 +69,7 @@ div .title-first {
   font-weight: 800;
   font-style: italic;
   color: #f0f0f0;
-  font-size: 80px;
+  font-size: 40px;
 }
 
 
@@ -83,7 +83,7 @@ div.title-first:last-of-type {
 div.title-second:last-of-type span {
   color: #f0f0f0;
   font-family: "Montserrat Alternates", sans-serif;
-  font-size: 70px;
+  font-size: 30px;
   font-weight: 900;
   font-style: italic;
   margin-left:-355px;
